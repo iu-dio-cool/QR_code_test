@@ -420,7 +420,7 @@ int main()
 	//}
 	while (1) {
 		Mat src;
-		src = imread("D:\\ALL_aboutSWU\\cat_dogs\\789.jpg");
+		src = imread("D:\\ALL_aboutSWU\\cat_dogs\\456.jpg");  //打开图片
 		//cap >> src;                                //从相机捕获一帧图像
 
 
